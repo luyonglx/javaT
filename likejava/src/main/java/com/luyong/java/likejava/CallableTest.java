@@ -48,7 +48,7 @@ public class CallableTest {
     		  Users users=new Users();
     		  users.setUserId(1);
     		  users.setUserName("luyong1");
-			  return users;
+			  return users;  
 		}
       });   	  
       System.out.println("等待结果"); 
@@ -63,7 +63,10 @@ public class CallableTest {
       }  
 	}
 	
-	//执行多个带返回值的任务，并取得多个返回值
+	
+	/**
+	 * //执行多个带返回值的任务，并取得多个返回值
+	 */
 	@Test
 	public void testOrg2(){
 		//方式2 CompletionService用于提交一组Callable任务，其take方法返回已完成的一个Callable任务对应的Future对象  
