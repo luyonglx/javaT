@@ -1,4 +1,4 @@
-package com.luyong.java.likejava;
+package com.luyong.java.Ijava;
 
 /**
  * Hello world!

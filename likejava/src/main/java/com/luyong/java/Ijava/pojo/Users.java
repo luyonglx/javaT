@@ -1,4 +1,4 @@
-package com.luyong.java.likejava.pojo;
+package com.luyong.java.Ijava.pojo;
 
 public class Users {
 	private int userId;

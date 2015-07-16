@@ -1,4 +1,4 @@
-package com.luyong.java.likejava.javabuffer;
+package com.luyong.java.Ijava.javabuffer;
 
 import java.util.Random;
 import java.util.concurrent.Callable;
@@ -11,7 +11,7 @@ import java.util.concurrent.Future;
 
 import org.junit.Test;
 
-import com.luyong.java.likejava.pojo.Users;
+import com.luyong.java.Ijava.pojo.Users;
 
 public class CallableTest {
 	/**
