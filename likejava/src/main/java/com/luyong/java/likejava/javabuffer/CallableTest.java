@@ -1,4 +1,4 @@
-package com.luyong.java.likejava;
+package com.luyong.java.likejava.javabuffer;
 
 import java.util.Random;
 import java.util.concurrent.Callable;
